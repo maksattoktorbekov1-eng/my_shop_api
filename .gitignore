@@ -205,7 +205,7 @@ cython_debug/
 .ruff_cache/
 
 # PyPI configuration file
-.pypirc
+.pypircj
 
 # Marimo
 marimo/_static/
@@ -215,5 +215,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-db.sqlite3
-.idea
+db.sqjjlite3
+.j
